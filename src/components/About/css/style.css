@@ -1,0 +1,27 @@
+/* Content
+=================*/
+
+.content {
+    height: 100%;
+    width: 565px;
+}
+
+.title {
+    margin-bottom: 35px;
+
+    font-size: 2rem;
+    color: #fff;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+.title span {
+    color: #2B7DED;
+}
+
+.text {
+    margin-bottom: 50px;
+
+    font-size: 1rem;
+    color: #fff;
+}

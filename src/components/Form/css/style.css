@@ -1,0 +1,30 @@
+.form {
+    width: 100%;
+    max-width: 280px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.input, .textarea {
+    display: block;
+    width: 100%;
+    padding: 12px 18px;
+    font-family: inherit;
+    font-size: 1rem;
+    color: #fff;
+    border: none;
+    background-color: rgba(255, 255, 255, .1);
+    border-radius: 5px;
+}
+
+.textarea {
+    height: 100px;
+    resize: none;
+}
+
+.input::placeholder,
+textarea::placeholder {
+    color: #fff;
+}

@@ -1,0 +1,29 @@
+/* Content
+=================*/
+.content {
+    width: 565px;
+}
+
+.subtitle {
+    font-size: 1.4rem;
+    color: rgba(255, 255, 255, 6);
+    font-weight: 300;
+}
+
+.title {
+    margin-bottom: 35px;
+    font-size: 2rem;
+    color: #fff;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+.title .span {
+    color: #2B7DED;
+}
+
+.text {
+    margin-bottom: 50px;
+    font-size: 1rem;
+    color: #fff;
+}
